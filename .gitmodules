@@ -1,0 +1,7 @@
+[submodule "SDL2-Premake-Example/vendor/SDL2"]
+	path = SDL2-Premake-Example/vendor/SDL2
+	url = https://github.com/spurious/SDL-mirror
+	branch = release-2.0.9
+[submodule "SDL2-Premake-Example/vendor/glm"]
+	path = SDL2-Premake-Example/vendor/glm
+	url = https://github.com/g-truc/glm
